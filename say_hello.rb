@@ -8,4 +8,4 @@ def say_hello (your_name = "minka")
   
 end
 
-say_hello("joann")
+say_hello(your_name)
