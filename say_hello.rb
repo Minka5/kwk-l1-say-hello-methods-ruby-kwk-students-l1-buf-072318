@@ -1,11 +1,11 @@
 # Build your say_hello method here
 
 
-def say_hello (your_name = "minka", your_name2)
+def say_hello (your_name = "minka")
 
-  puts "Hello #{your_name} i'm #{your_name2}"
+  puts "Hello #{your_name}"
   
   
 end
 
-say_hello("minka","teresa")
+say_hello("joann")
