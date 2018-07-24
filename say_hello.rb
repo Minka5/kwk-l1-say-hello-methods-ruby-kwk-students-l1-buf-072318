@@ -3,9 +3,9 @@
 
 def say_hello (your_name = "minka")
 
-  puts "Hello #{your_name}"
+  puts "Hello #{your_name}!"
   
   
 end
 
-say_hello(your_name)
+say_hello("nelly")
