@@ -1,4 +1,3 @@
-learn
 # Say Hello
 
 ## Objectives
