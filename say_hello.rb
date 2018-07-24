@@ -7,4 +7,4 @@ def say_hello (your_name, your_name2)
   
 end
 
-say_hello ("minka")
+say_hello
